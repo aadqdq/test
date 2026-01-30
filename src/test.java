@@ -2,7 +2,9 @@ import java.util.Scanner;
 import java.util.Random;
 public class test {
     public static void main(String[] args) {
+        System.out.println("123456");
         /*System.out.println("Hello World");
+
         Scanner sc=new Scanner(System.in);
         Random r=new Random();
         int y=0;
